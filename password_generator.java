@@ -3,7 +3,7 @@ import java.util.*;
 
 
 public class password_generator{
-   public static void main(String[] args) {
+   public static void main(String[] arg) {
     int length=8;
     System.out.println("Welcome to the Random Password Generator: \n");
     System.out.println("Enter the length of your password: \n N.B:(Minimum length should be 8)");
